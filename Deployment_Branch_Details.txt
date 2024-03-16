@@ -1,0 +1,9 @@
+﻿ProcessName      	: Process_1
+======================= : ======
+UiPath Elements	        : Yes/No
+======================= : ======
+DeployCode       	: No
+Assets		 	: No
+Queues		 	: No
+Schedules_TimeTrigger	: Yes
+Schedules_QueueTrigger	: Yes

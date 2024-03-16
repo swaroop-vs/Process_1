@@ -1,0 +1,5 @@
+﻿Name,Type,Value
+example_asset1,text,value of the asset
+example_asset2,integer,4232
+example_asset3,boolean,FALSE
+example_asset4,credential,username::password

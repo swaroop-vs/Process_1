@@ -1,0 +1,2 @@
+﻿MachineName,PackageName,RobotFullName,QueueTriggerName,QueueName,ItemsActivationThreshold,ItemsPerJobActivationTarget,MaxJobsForActivation
+VAWSP-EL2QETVDJ,Process_1,CPRODBOTA,TEST_Q_Trigger_By_Vijay,Test_Queue_Via_API_by_Vijay,8,9,10

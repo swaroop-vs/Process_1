@@ -1,0 +1,2 @@
+﻿MachineName,PackageName,RobotFullName,TimeTriggerName,CronExpression
+VAWSP-EL2QETVDJ,Process_1,CPRODBOTA,TEST_Time_Trigger_By_Vijay,"0 0 16-23 ? * SUN,MON,TUE,WED,THU,FRI,SAT *"

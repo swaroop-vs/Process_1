@@ -1,0 +1,5 @@
+﻿Name,Type,Value
+Vijay_asset1,text,value of the asset
+Vijay_asset2,integer,4232
+Vijay_asset3,boolean,FALSE
+Vijay_asset4,credential,username::password
